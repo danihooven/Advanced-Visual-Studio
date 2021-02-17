@@ -1,0 +1,9 @@
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 5\Distance Calculator\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.exe.config
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 5\Distance Calculator\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 5\Distance Calculator\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.pdb
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 5\Distance Calculator\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.csprojResolveAssemblyReference.cache
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 5\Distance Calculator\Distance Calculator\Distance Calculator\obj\Debug\Distance_Calculator.Form1.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 5\Distance Calculator\Distance Calculator\Distance Calculator\obj\Debug\Distance_Calculator.Properties.Resources.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 5\Distance Calculator\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.csproj.GenerateResource.Cache
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 5\Distance Calculator\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 5\Distance Calculator\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.pdb
