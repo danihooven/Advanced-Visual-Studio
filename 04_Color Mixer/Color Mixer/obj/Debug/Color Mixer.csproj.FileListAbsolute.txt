@@ -1,0 +1,9 @@
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 3\Color Mixer\Color Mixer\bin\Debug\Color Mixer.exe.config
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 3\Color Mixer\Color Mixer\bin\Debug\Color Mixer.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 3\Color Mixer\Color Mixer\bin\Debug\Color Mixer.pdb
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 3\Color Mixer\Color Mixer\obj\Debug\Color Mixer.csprojResolveAssemblyReference.cache
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 3\Color Mixer\Color Mixer\obj\Debug\Color_Mixer.Form1.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 3\Color Mixer\Color Mixer\obj\Debug\Color_Mixer.Properties.Resources.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 3\Color Mixer\Color Mixer\obj\Debug\Color Mixer.csproj.GenerateResource.Cache
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 3\Color Mixer\Color Mixer\obj\Debug\Color Mixer.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 3\Color Mixer\Color Mixer\obj\Debug\Color Mixer.pdb
