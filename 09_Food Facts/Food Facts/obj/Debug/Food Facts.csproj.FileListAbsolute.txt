@@ -1,0 +1,10 @@
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 09\Food Facts\Food Facts\bin\Debug\Food Facts.exe.config
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 09\Food Facts\Food Facts\obj\Debug\Food Facts.csprojResolveAssemblyReference.cache
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 09\Food Facts\Food Facts\obj\Debug\Food_Facts.MainForm.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 09\Food Facts\Food Facts\obj\Debug\Food_Facts.NutritionForm.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 09\Food Facts\Food Facts\obj\Debug\Food_Facts.Properties.Resources.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 09\Food Facts\Food Facts\obj\Debug\Food Facts.csproj.GenerateResource.Cache
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 09\Food Facts\Food Facts\bin\Debug\Food Facts.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 09\Food Facts\Food Facts\bin\Debug\Food Facts.pdb
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 09\Food Facts\Food Facts\obj\Debug\Food Facts.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 09\Food Facts\Food Facts\obj\Debug\Food Facts.pdb
