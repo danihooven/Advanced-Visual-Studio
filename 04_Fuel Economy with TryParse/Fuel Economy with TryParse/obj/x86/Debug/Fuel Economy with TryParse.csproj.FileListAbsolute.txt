@@ -1,0 +1,7 @@
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Fuel Economy with TryParse\Fuel Economy with TryParse\bin\Debug\Fuel Economy with TryParse.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Fuel Economy with TryParse\Fuel Economy with TryParse\bin\Debug\Fuel Economy with TryParse.pdb
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Fuel Economy with TryParse\Fuel Economy with TryParse\obj\x86\Debug\Fuel_Economy_with_TryParse.Form1.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Fuel Economy with TryParse\Fuel Economy with TryParse\obj\x86\Debug\Fuel_Economy_with_TryParse.Properties.Resources.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Fuel Economy with TryParse\Fuel Economy with TryParse\obj\x86\Debug\Fuel Economy with TryParse.csproj.GenerateResource.Cache
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Fuel Economy with TryParse\Fuel Economy with TryParse\obj\x86\Debug\Fuel Economy with TryParse.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Fuel Economy with TryParse\Fuel Economy with TryParse\obj\x86\Debug\Fuel Economy with TryParse.pdb
