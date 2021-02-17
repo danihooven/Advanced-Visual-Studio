@@ -1,0 +1,7 @@
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap06\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay_and_Bonus.Form1.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap06\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay_and_Bonus.Properties.Resources.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap06\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.csproj.GenerateResource.Cache
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap06\Pay and Bonus\Pay and Bonus\bin\Debug\Pay and Bonus.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap06\Pay and Bonus\Pay and Bonus\bin\Debug\Pay and Bonus.pdb
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap06\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap06\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.pdb
