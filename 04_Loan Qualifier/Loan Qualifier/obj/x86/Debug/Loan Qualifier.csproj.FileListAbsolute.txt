@@ -1,0 +1,16 @@
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.pdb
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan_Qualifier.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan_Qualifier.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan Qualifier.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan Qualifier.pdb
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan Qualifier.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan Qualifier.pdb
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan_Qualifier.Form1.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan_Qualifier.Properties.Resources.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan Qualifier.csproj.GenerateResource.Cache
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.pdb
