@@ -1,0 +1,8 @@
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Test Score Average\Test Score Average\bin\Debug\Test Score Average.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Test Score Average\Test Score Average\bin\Debug\Test Score Average.pdb
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Test Score Average\Test Score Average\obj\x86\Debug\Test Score Average.csprojResolveAssemblyReference.cache
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Test Score Average\Test Score Average\obj\x86\Debug\Test_Score_Average.Form1.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Test Score Average\Test Score Average\obj\x86\Debug\Test_Score_Average.Properties.Resources.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Test Score Average\Test Score Average\obj\x86\Debug\Test Score Average.csproj.GenerateResource.Cache
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Test Score Average\Test Score Average\obj\x86\Debug\Test Score Average.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Test Score Average\Test Score Average\obj\x86\Debug\Test Score Average.pdb
