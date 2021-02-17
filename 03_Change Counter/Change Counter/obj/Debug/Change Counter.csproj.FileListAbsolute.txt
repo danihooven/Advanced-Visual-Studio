@@ -1,0 +1,11 @@
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST\Change Counter\Change Counter\bin\Debug\Change Counter.exe.config
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST\Change Counter\Change Counter\bin\Debug\Change Counter.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST\Change Counter\Change Counter\bin\Debug\Change Counter.pdb
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST\Change Counter\Change Counter\obj\Debug\Change_Counter.Form1.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST\Change Counter\Change Counter\obj\Debug\Change_Counter.Properties.Resources.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST\Change Counter\Change Counter\obj\Debug\Change Counter.csproj.GenerateResource.Cache
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST\Change Counter\Change Counter\obj\Debug\Change Counter.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST\Change Counter\Change Counter\obj\Debug\Change Counter.pdb
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 3\Change Counter\Change Counter\bin\Debug\Change Counter.exe.config
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 3\Change Counter\Change Counter\obj\Debug\Change Counter.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 3\Change Counter\Change Counter\obj\Debug\Change Counter.pdb
