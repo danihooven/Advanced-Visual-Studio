@@ -1,0 +1,8 @@
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap05\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.csprojResolveAssemblyReference.cache
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap05\Ending Balance\Ending Balance\obj\x86\Debug\Ending_Balance.Form1.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap05\Ending Balance\Ending Balance\obj\x86\Debug\Ending_Balance.Properties.Resources.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap05\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.csproj.GenerateResource.Cache
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap05\Ending Balance\Ending Balance\bin\Debug\Ending Balance.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap05\Ending Balance\Ending Balance\bin\Debug\Ending Balance.pdb
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap05\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap05\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.pdb
