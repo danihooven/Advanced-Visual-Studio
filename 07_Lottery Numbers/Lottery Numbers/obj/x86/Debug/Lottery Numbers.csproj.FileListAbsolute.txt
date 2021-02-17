@@ -1,0 +1,8 @@
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap07\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap07\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.pdb
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap07\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.csprojResolveAssemblyReference.cache
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap07\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery_Numbers.Form1.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap07\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery_Numbers.Properties.Resources.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap07\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.csproj.GenerateResource.Cache
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap07\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap07\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.pdb
