@@ -1,0 +1,8 @@
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST\Hello World\Language Translator\Language Translator\bin\Debug\Language Translator.exe.config
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST\Hello World\Language Translator\Language Translator\bin\Debug\Language Translator.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST\Hello World\Language Translator\Language Translator\bin\Debug\Language Translator.pdb
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST\Hello World\Language Translator\Language Translator\obj\Debug\Language_Translator.Form1.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST\Hello World\Language Translator\Language Translator\obj\Debug\Language_Translator.Properties.Resources.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST\Hello World\Language Translator\Language Translator\obj\Debug\Language Translator.csproj.GenerateResource.Cache
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST\Hello World\Language Translator\Language Translator\obj\Debug\Language Translator.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST\Hello World\Language Translator\Language Translator\obj\Debug\Language Translator.pdb
