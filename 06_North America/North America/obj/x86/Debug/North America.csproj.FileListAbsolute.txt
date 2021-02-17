@@ -1,0 +1,4 @@
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap06\North America\North America\obj\x86\Debug\North America.csprojResolveAssemblyReference.cache
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap06\North America\North America\obj\x86\Debug\North_America.Form1.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap06\North America\North America\obj\x86\Debug\North_America.Properties.Resources.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap06\North America\North America\obj\x86\Debug\North America.csproj.GenerateResource.Cache
