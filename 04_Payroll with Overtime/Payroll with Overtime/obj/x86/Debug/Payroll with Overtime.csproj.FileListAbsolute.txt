@@ -1,0 +1,9 @@
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll_with_Overtime.Form1.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll_with_Overtime.Properties.Resources.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.csproj.GenerateResource.Cache
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.pdb
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Student Sample Programs\Student Sample Programs\Chap04\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.pdb
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 4\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 4\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.pdb
