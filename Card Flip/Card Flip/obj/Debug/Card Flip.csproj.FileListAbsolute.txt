@@ -1,8 +1,0 @@
-C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST\Hello World\Card Flip\Card Flip\bin\Debug\Card Flip.exe.config
-C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST\Hello World\Card Flip\Card Flip\bin\Debug\Card Flip.exe
-C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST\Hello World\Card Flip\Card Flip\bin\Debug\Card Flip.pdb
-C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST\Hello World\Card Flip\Card Flip\obj\Debug\Card_Flip.Form1.resources
-C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST\Hello World\Card Flip\Card Flip\obj\Debug\Card_Flip.Properties.Resources.resources
-C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST\Hello World\Card Flip\Card Flip\obj\Debug\Card Flip.csproj.GenerateResource.Cache
-C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST\Hello World\Card Flip\Card Flip\obj\Debug\Card Flip.exe
-C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST\Hello World\Card Flip\Card Flip\obj\Debug\Card Flip.pdb
