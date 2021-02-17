@@ -1,0 +1,9 @@
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 5\Dice Simulator\Dice Simulator\bin\Debug\Dice Simulator.exe.config
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 5\Dice Simulator\Dice Simulator\bin\Debug\Dice Simulator.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 5\Dice Simulator\Dice Simulator\bin\Debug\Dice Simulator.pdb
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 5\Dice Simulator\Dice Simulator\obj\Debug\Dice Simulator.csprojResolveAssemblyReference.cache
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 5\Dice Simulator\Dice Simulator\obj\Debug\Dice_Simulator.Form1.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 5\Dice Simulator\Dice Simulator\obj\Debug\Dice_Simulator.Properties.Resources.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 5\Dice Simulator\Dice Simulator\obj\Debug\Dice Simulator.csproj.GenerateResource.Cache
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 5\Dice Simulator\Dice Simulator\obj\Debug\Dice Simulator.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 5\Dice Simulator\Dice Simulator\obj\Debug\Dice Simulator.pdb
