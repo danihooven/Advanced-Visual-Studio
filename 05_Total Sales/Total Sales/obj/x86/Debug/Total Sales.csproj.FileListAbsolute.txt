@@ -1,0 +1,7 @@
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 5\Total Sales\Total Sales\bin\Debug\Total Sales.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 5\Total Sales\Total Sales\bin\Debug\Total Sales.pdb
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 5\Total Sales\Total Sales\obj\x86\Debug\Total_Sales.Form1.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 5\Total Sales\Total Sales\obj\x86\Debug\Total_Sales.Properties.Resources.resources
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 5\Total Sales\Total Sales\obj\x86\Debug\Total Sales.csproj.GenerateResource.Cache
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 5\Total Sales\Total Sales\obj\x86\Debug\Total Sales.exe
+C:\Users\danie\Google Drive\School\OCC\2019 Fall\C#_IST140-226\Chapter 5\Total Sales\Total Sales\obj\x86\Debug\Total Sales.pdb
